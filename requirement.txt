@@ -1,0 +1,3 @@
+missingno
+pandas
+PyQt5
